@@ -30,6 +30,5 @@ QA Engineer Portfolio: Manual testing, API, SQL, and Bug Reports
 ## 📬 Контакты:
 *   **Telegram:** @justbeyondbelief
 *   **Email:** gordeev.roman02@gmail.com
-*   **Резюме на hh.ru:** *-*
 
 *Открыт к предложениям о работе и стажировке!*
