@@ -28,8 +28,8 @@ QA Engineer Portfolio: Manual testing, API, SQL, and Bug Reports
     *   Полный цикл тестирования веб-приложения: от написания тест-плана и чек-листов до поиска багов верстки и логики.
 
 ## 📬 Контакты:
-*   **Telegram:** @твой_никнейм_в_тг
-*   **Email:** твой_email@mail.ru
-*   **Резюме на hh.ru:** *(сюда потом вставишь ссылку)*
+*   **Telegram:** @justbeyondbelief
+*   **Email:** gordeev.roman02@gmail.com
+*   **Резюме на hh.ru:** *-*
 
 *Открыт к предложениям о работе и стажировке!*
